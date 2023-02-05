@@ -1,4 +1,4 @@
-    🔥 ALAN-MENU 🔥
+#    🔥 ALAN-MENU 🔥
 
 # By @SCOTTSSH
 
