@@ -1,0 +1,9 @@
+#!/bin/bash
+clear
+figlet "ALAN-SSH" | lolcat
+echo -e "\033[1;33mINICIANDO, INSTALADOR \033[0m"
+echo ""
+echo "Lembre-se de manter a base de usuarios para que nao seja resetado!" | lolcat
+sleep 2s
+bash <(wget -qO- raw.githubusercontent.com/Alanluis11/AlanMENU/main/ssh-plus)
+
